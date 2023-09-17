@@ -1,7 +1,6 @@
 # Phase-5-Project: Zillow Dataset Time Series
 
-[Image](![Uploading image.png…]()
-)
+(![Uploading image.png…]())
 
 ## Table of contents
 
